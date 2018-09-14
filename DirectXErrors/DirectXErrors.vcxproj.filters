@@ -25,5 +25,6 @@
     <None Include="DirectXErrors\includeData.inl" />
     <None Include="DirectXErrors\data\win32.inl" />
     <None Include="DirectXErrors\data\xaudio.inl" />
+    <None Include="DirectXErrors\data\mf.inl" />
   </ItemGroup>
 </Project>

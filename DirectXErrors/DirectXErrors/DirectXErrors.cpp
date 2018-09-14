@@ -9,6 +9,7 @@
 #define USE_DIRECT2D
 #define USE_DXUT
 #define USE_WIC
+#define USE_MF
 
 #if !defined(WINAPI_FAMILY) || (WINAPI_FAMILY == WINAPI_FAMILY_DESKTOP_APP)
 #include <ddraw.h>
@@ -29,6 +30,7 @@
 #include <d2derr.h>
 #include <dwrite.h>
 #endif
+#include <Mferror.h>
 
 #include "codes.h"
 

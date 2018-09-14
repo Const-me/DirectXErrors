@@ -180,6 +180,7 @@
     <None Include="DirectXErrors\data\dinput.inl" />
     <None Include="DirectXErrors\data\dsound.inl" />
     <None Include="DirectXErrors\data\dxut.inl" />
+    <None Include="DirectXErrors\data\mf.inl" />
     <None Include="DirectXErrors\data\wic.inl" />
     <None Include="DirectXErrors\data\win32.inl" />
     <None Include="DirectXErrors\data\xaudio.inl" />

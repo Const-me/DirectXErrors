@@ -36,3 +36,7 @@
 #ifdef USE_AUDIO
 #include "data/xaudio.inl"
 #endif
+
+#ifdef  USE_MF
+#include "data/mf.inl"
+#endif

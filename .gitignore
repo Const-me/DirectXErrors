@@ -1,3 +1,5 @@
 DirectXErrors/.vs/
 DirectXErrors/Win32/
 DirectXErrors/x64/
+ParseHeader/bin/
+ParseHeader/obj/
